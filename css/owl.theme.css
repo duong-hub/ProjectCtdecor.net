@@ -32,7 +32,7 @@
     -o-transition: 0.7s;
     -webkit-transition: 0.7s;
     height: 25px;
-    background: url(nutslide_trai.png)no-repeat top left;}
+    background: url(https://duong-hub.github.io/ProjectCtdecor.net/images/nutslide_trai.png)no-repeat top left;}
 /*.owl-prev:hover{    -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);}*/
@@ -43,7 +43,7 @@
      top: 150px;
 	transition:0.7s; -moz-transition:0.7s; -ms-transition:0.7s; -o-transition:0.7s; -webkit-transition:0.7s;
     height:25px;
-    background: url(nutslide_phai.png)no-repeat top left;}
+    background: url(https://duong-hub.github.io/ProjectCtdecor.net/images/nutslide_phai.png)no-repeat top left;}
 /*.owl-next:hover{   -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);}*/
