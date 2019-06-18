@@ -1,2 +1,2 @@
-# https://github.com/duong-hub/ProjectCtdecor.net
+# https://duong-hub.github.io/ProjectCtdecor.net
 My website
